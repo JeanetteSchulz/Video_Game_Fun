@@ -28,9 +28,13 @@ Metacritic's mission is to help consumers make an informed decision about how to
 
 ## Data Dictionary
 
-| Variable                         | Description                                                  |Data types|
+| Column                         | Description                                                  |Data types|
 | -------------------------------- | -----------------------------------------------------------  |----------|
-| | | |
+| Title  | Name of the game | Str |
+| Ranking | | int |
+| Metascore | | int |
+| Platform | Console game was released for | Str |
+| Release Date | Date game was released for purchase | Str |
 
                 
 
